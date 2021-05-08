@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+}
+
+
+
+.header{
+    background-color:yellow;
+    display:flex;
+    justify-content:  space-around
+}
+.run{
+    display:flex;
+    justify-content: space-between;
+     flex-wrap: reverse-wrap
+}
+
+.sky{
+    display:flex;
+    flex-wrap: wrap;
+   justify-content:flex-start;
+  
+}
